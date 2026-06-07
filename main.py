@@ -18,6 +18,29 @@ st.set_page_config(
     layout="wide"
 )
 
+
+st.markdown(
+    """
+    ### Developed by Prana Ugiana Gio
+
+    **Website:** [pranaugi.com](https://pranaugi.com/)
+
+    **YouTube:** [STATKOMAT](https://www.youtube.com/@STATKOMAT)
+
+    **Online Store:** [lynk.id/statkomat](https://lynk.id/statkomat)
+
+    **Training Data for This Application:**  
+    [Download training data from Google Drive](https://drive.google.com/drive/folders/1aMNWaiBNt-qrsCYOKROIJ9XNon4A33mq?usp=sharing)
+
+
+    ---
+    """
+)
+
+
+
+
+
 st.title("📑 Excel / CSV File Merger")
 st.caption(
     "Upload beberapa file Excel atau CSV, lalu aplikasi akan menggabungkan data "
